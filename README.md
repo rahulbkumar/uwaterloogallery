@@ -1,1 +1,1 @@
-[![DEMO]](path/to/uwgalleryvid.mp4)
+[![DEMO]](main/uwgalleryvid.mp4)
